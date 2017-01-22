@@ -1,0 +1,5 @@
+packages
+StyleCop.Cache
+bin
+obj
+.DS_Store
